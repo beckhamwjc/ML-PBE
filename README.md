@@ -1,2 +1,2 @@
 # ML-PBE
-ML-PBE
+This repository constains orginial source codes and dataset for the research manuscript "Wang, Jingchun; Zhang, DaDi; Xu, Rui-Xue; Yam, ChiYung; Chen, GuanHua; Zheng, Xiao (2021): Improving Density Functional Prediction of Molecular Thermochemical Properties with a Machine-Learning-Corrected Generalized Gradient Approximation. ChemRxiv. Preprint. https://doi.org/10.26434/chemrxiv.14595321.v1".
